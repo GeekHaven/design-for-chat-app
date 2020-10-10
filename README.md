@@ -1,5 +1,11 @@
-# design-for-chat-app
+# UI Design Chat App
 Design repo for ui/ux design of the [ChatApp](https://github.com/GeekHaven/ChatApp)
+
+## Design Guidelines
+- Need to know Figma/Adobe XD
+- Submit jpeg/png of the screens designed by you.
+- Issues will be opened every 3 days.
+- Please mention the issue you are addressing in your PR.
 
 ## Contribution
 
