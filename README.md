@@ -1,15 +1,17 @@
-# UI Design Chat App
-Design repo for ui/ux design of the [ChatApp](https://github.com/GeekHaven/ChatApp)
+# GeekTober Design Repo
+
+# Design for Chat App
+Design repo for design of the [ChatApp](https://github.com/GeekHaven/ChatApp)
 
 ## General Guidelines
 - This is basically a chat application like whatsapp, telegram etc.
-- You have to design UI of the Chat App.
 - Please see the Flow Chart of the app for more info on the app. [FlowChart Folder]
-- Submit the Figma link and Png/Jpeg files of the screen to the respective folders.
-- Please mention the issue you are addressing in your PR.
+- Submit the Figma link and Png/Jpeg files of the **screen** to the respective folders.
+- Submit your designed **logo** in the Logo folder.
 
 ## Design Guidelines
 - Need to know Figma/Adobe XD for UI Design.
+- Need to know Adobe Illustrator/Corel Draw or any other similar software for logo design.
 
 ## Contribution
 
