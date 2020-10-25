@@ -8,10 +8,11 @@ Design repo for design of the [ChatApp](https://github.com/GeekHaven/ChatApp)
 - Please see the Flow Chart of the app for more info on the app. [FlowChart Folder]
 - Submit the Figma link and Png/Jpeg files of the **screen** to the respective folders.
 - Submit your designed **logo** in the Logo folder.
+- Submit your **icons** in the icons folder.
 
 ## Design Guidelines
 - Need to know Figma/Adobe XD for UI Design.
-- Need to know Adobe Illustrator/Corel Draw or any other similar software for logo design.
+- Need to know Adobe Illustrator/Corel Draw or any other similar software for logo/icon design.
 
 ## Contribution
 
